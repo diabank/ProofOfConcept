@@ -1,0 +1,9 @@
+C:\LetsWorkIt\ProofOfConcept\ProofOfConceptStartingPoint\Common.Utils\bin\Debug\netcoreapp2.1\Common.Utils.deps.json
+C:\LetsWorkIt\ProofOfConcept\ProofOfConceptStartingPoint\Common.Utils\bin\Debug\netcoreapp2.1\Common.Utils.dll
+C:\LetsWorkIt\ProofOfConcept\ProofOfConceptStartingPoint\Common.Utils\bin\Debug\netcoreapp2.1\Common.Utils.pdb
+C:\LetsWorkIt\ProofOfConcept\ProofOfConceptStartingPoint\Common.Utils\obj\Debug\netcoreapp2.1\Common.Utils.csprojAssemblyReference.cache
+C:\LetsWorkIt\ProofOfConcept\ProofOfConceptStartingPoint\Common.Utils\obj\Debug\netcoreapp2.1\Common.Utils.csproj.CoreCompileInputs.cache
+C:\LetsWorkIt\ProofOfConcept\ProofOfConceptStartingPoint\Common.Utils\obj\Debug\netcoreapp2.1\Common.Utils.AssemblyInfoInputs.cache
+C:\LetsWorkIt\ProofOfConcept\ProofOfConceptStartingPoint\Common.Utils\obj\Debug\netcoreapp2.1\Common.Utils.AssemblyInfo.cs
+C:\LetsWorkIt\ProofOfConcept\ProofOfConceptStartingPoint\Common.Utils\obj\Debug\netcoreapp2.1\Common.Utils.dll
+C:\LetsWorkIt\ProofOfConcept\ProofOfConceptStartingPoint\Common.Utils\obj\Debug\netcoreapp2.1\Common.Utils.pdb
