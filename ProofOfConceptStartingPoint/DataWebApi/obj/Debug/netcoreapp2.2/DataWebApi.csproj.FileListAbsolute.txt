@@ -1,0 +1,13 @@
+C:\LetsWorkIt\ProofOfConcept\ProofOfConceptStartingPoint\DataWebApi\bin\Debug\netcoreapp2.2\DataWebApi.deps.json
+C:\LetsWorkIt\ProofOfConcept\ProofOfConceptStartingPoint\DataWebApi\bin\Debug\netcoreapp2.2\DataWebApi.runtimeconfig.json
+C:\LetsWorkIt\ProofOfConcept\ProofOfConceptStartingPoint\DataWebApi\bin\Debug\netcoreapp2.2\DataWebApi.runtimeconfig.dev.json
+C:\LetsWorkIt\ProofOfConcept\ProofOfConceptStartingPoint\DataWebApi\bin\Debug\netcoreapp2.2\DataWebApi.dll
+C:\LetsWorkIt\ProofOfConcept\ProofOfConceptStartingPoint\DataWebApi\bin\Debug\netcoreapp2.2\DataWebApi.pdb
+C:\LetsWorkIt\ProofOfConcept\ProofOfConceptStartingPoint\DataWebApi\obj\Debug\netcoreapp2.2\DataWebApi.csproj.CoreCompileInputs.cache
+C:\LetsWorkIt\ProofOfConcept\ProofOfConceptStartingPoint\DataWebApi\obj\Debug\netcoreapp2.2\DataWebApi.RazorAssemblyInfo.cache
+C:\LetsWorkIt\ProofOfConcept\ProofOfConceptStartingPoint\DataWebApi\obj\Debug\netcoreapp2.2\DataWebApi.RazorAssemblyInfo.cs
+C:\LetsWorkIt\ProofOfConcept\ProofOfConceptStartingPoint\DataWebApi\obj\Debug\netcoreapp2.2\DataWebApi.AssemblyInfoInputs.cache
+C:\LetsWorkIt\ProofOfConcept\ProofOfConceptStartingPoint\DataWebApi\obj\Debug\netcoreapp2.2\DataWebApi.AssemblyInfo.cs
+C:\LetsWorkIt\ProofOfConcept\ProofOfConceptStartingPoint\DataWebApi\obj\Debug\netcoreapp2.2\DataWebApi.RazorTargetAssemblyInfo.cache
+C:\LetsWorkIt\ProofOfConcept\ProofOfConceptStartingPoint\DataWebApi\obj\Debug\netcoreapp2.2\DataWebApi.dll
+C:\LetsWorkIt\ProofOfConcept\ProofOfConceptStartingPoint\DataWebApi\obj\Debug\netcoreapp2.2\DataWebApi.pdb

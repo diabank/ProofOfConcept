@@ -1,0 +1,11 @@
+C:\LetsWorkIt\ProofOfConcept\ProofOfConceptStartingPoint\DataRepository\obj\Debug\DataRepository.csproj.CoreCompileInputs.cache
+C:\LetsWorkIt\ProofOfConcept\ProofOfConceptStartingPoint\DataRepository\bin\Debug\DataRepository.dll
+C:\LetsWorkIt\ProofOfConcept\ProofOfConceptStartingPoint\DataRepository\bin\Debug\DataRepository.pdb
+C:\LetsWorkIt\ProofOfConcept\ProofOfConceptStartingPoint\DataRepository\obj\Debug\DataRepository.dll
+C:\LetsWorkIt\ProofOfConcept\ProofOfConceptStartingPoint\DataRepository\obj\Debug\DataRepository.pdb
+C:\LetsWorkIt\ProofOfConcept\ProofOfConceptStartingPoint\DataRepository\bin\Debug\Common.dll
+C:\LetsWorkIt\ProofOfConcept\ProofOfConceptStartingPoint\DataRepository\bin\Debug\Common.pdb
+C:\LetsWorkIt\ProofOfConcept\ProofOfConceptStartingPoint\DataRepository\obj\Debug\DataRepository.csprojAssemblyReference.cache
+C:\LetsWorkIt\ProofOfConcept\ProofOfConceptStartingPoint\DataRepository\obj\Debug\DataRepository.csproj.CopyComplete
+C:\LetsWorkIt\ProofOfConcept\ProofOfConceptStartingPoint\DataRepository\bin\Debug\DataRepository.dll.config
+C:\LetsWorkIt\ProofOfConcept\ProofOfConceptStartingPoint\DataRepository\bin\Debug\Common.dll.config

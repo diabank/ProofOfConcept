@@ -1,0 +1,14 @@
+C:\LetsWorkIt\ProofOfConcept\ProofOfConceptStartingPoint\PresentationWPF\bin\Debug\PresentationWPF.exe.config
+C:\LetsWorkIt\ProofOfConcept\ProofOfConceptStartingPoint\PresentationWPF\bin\Debug\PresentationWPF.exe
+C:\LetsWorkIt\ProofOfConcept\ProofOfConceptStartingPoint\PresentationWPF\bin\Debug\PresentationWPF.pdb
+C:\LetsWorkIt\ProofOfConcept\ProofOfConceptStartingPoint\PresentationWPF\obj\Debug\MainWindow.g.cs
+C:\LetsWorkIt\ProofOfConcept\ProofOfConceptStartingPoint\PresentationWPF\obj\Debug\App.g.cs
+C:\LetsWorkIt\ProofOfConcept\ProofOfConceptStartingPoint\PresentationWPF\obj\Debug\PresentationWPF_MarkupCompile.cache
+C:\LetsWorkIt\ProofOfConcept\ProofOfConceptStartingPoint\PresentationWPF\obj\Debug\PresentationWPF_MarkupCompile.lref
+C:\LetsWorkIt\ProofOfConcept\ProofOfConceptStartingPoint\PresentationWPF\obj\Debug\MainWindow.baml
+C:\LetsWorkIt\ProofOfConcept\ProofOfConceptStartingPoint\PresentationWPF\obj\Debug\PresentationWPF.g.resources
+C:\LetsWorkIt\ProofOfConcept\ProofOfConceptStartingPoint\PresentationWPF\obj\Debug\PresentationWPF.Properties.Resources.resources
+C:\LetsWorkIt\ProofOfConcept\ProofOfConceptStartingPoint\PresentationWPF\obj\Debug\PresentationWPF.csproj.GenerateResource.cache
+C:\LetsWorkIt\ProofOfConcept\ProofOfConceptStartingPoint\PresentationWPF\obj\Debug\PresentationWPF.csproj.CoreCompileInputs.cache
+C:\LetsWorkIt\ProofOfConcept\ProofOfConceptStartingPoint\PresentationWPF\obj\Debug\PresentationWPF.exe
+C:\LetsWorkIt\ProofOfConcept\ProofOfConceptStartingPoint\PresentationWPF\obj\Debug\PresentationWPF.pdb
