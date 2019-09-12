@@ -1,0 +1,6 @@
+C:\LetsWorkIt\ProofOfConcept\ProofOfConceptStartingPoint\Common\bin\Debug\Common.dll
+C:\LetsWorkIt\ProofOfConcept\ProofOfConceptStartingPoint\Common\bin\Debug\Common.pdb
+C:\LetsWorkIt\ProofOfConcept\ProofOfConceptStartingPoint\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\LetsWorkIt\ProofOfConcept\ProofOfConceptStartingPoint\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\LetsWorkIt\ProofOfConcept\ProofOfConceptStartingPoint\Common\obj\Debug\Common.dll
+C:\LetsWorkIt\ProofOfConcept\ProofOfConceptStartingPoint\Common\obj\Debug\Common.pdb

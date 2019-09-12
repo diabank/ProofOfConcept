@@ -1,9 +1,7 @@
 # Proof of Concept
-Code decoupling
-Dependency injection
-Repository Pattern
-Dapper
-Swagger
-MEF (an attempt)
-
-
+Code decoupling /
+Dependency injection /
+Repository Pattern /
+Dapper /
+Swagger / 
+MEF (an attempt) /
