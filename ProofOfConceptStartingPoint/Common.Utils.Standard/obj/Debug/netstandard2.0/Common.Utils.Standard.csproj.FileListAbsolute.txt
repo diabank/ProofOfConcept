@@ -1,9 +1,0 @@
-C:\LetsWorkIt\ProofOfConcept\ProofOfConceptStartingPoint\Common.Utils.Standard\bin\Debug\netstandard2.0\Common.Utils.Standard.deps.json
-C:\LetsWorkIt\ProofOfConcept\ProofOfConceptStartingPoint\Common.Utils.Standard\bin\Debug\netstandard2.0\Common.Utils.Standard.dll
-C:\LetsWorkIt\ProofOfConcept\ProofOfConceptStartingPoint\Common.Utils.Standard\bin\Debug\netstandard2.0\Common.Utils.Standard.pdb
-C:\LetsWorkIt\ProofOfConcept\ProofOfConceptStartingPoint\Common.Utils.Standard\obj\Debug\netstandard2.0\Common.Utils.Standard.csprojAssemblyReference.cache
-C:\LetsWorkIt\ProofOfConcept\ProofOfConceptStartingPoint\Common.Utils.Standard\obj\Debug\netstandard2.0\Common.Utils.Standard.csproj.CoreCompileInputs.cache
-C:\LetsWorkIt\ProofOfConcept\ProofOfConceptStartingPoint\Common.Utils.Standard\obj\Debug\netstandard2.0\Common.Utils.Standard.AssemblyInfoInputs.cache
-C:\LetsWorkIt\ProofOfConcept\ProofOfConceptStartingPoint\Common.Utils.Standard\obj\Debug\netstandard2.0\Common.Utils.Standard.AssemblyInfo.cs
-C:\LetsWorkIt\ProofOfConcept\ProofOfConceptStartingPoint\Common.Utils.Standard\obj\Debug\netstandard2.0\Common.Utils.Standard.dll
-C:\LetsWorkIt\ProofOfConcept\ProofOfConceptStartingPoint\Common.Utils.Standard\obj\Debug\netstandard2.0\Common.Utils.Standard.pdb
