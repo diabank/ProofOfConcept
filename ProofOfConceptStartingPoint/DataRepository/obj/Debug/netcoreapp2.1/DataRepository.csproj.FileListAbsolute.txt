@@ -1,0 +1,9 @@
+C:\LetsWork\ProofOfConcept\ProofOfConceptStartingPoint\DataRepository\bin\Debug\netcoreapp2.1\DataRepository.deps.json
+C:\LetsWork\ProofOfConcept\ProofOfConceptStartingPoint\DataRepository\bin\Debug\netcoreapp2.1\DataRepository.dll
+C:\LetsWork\ProofOfConcept\ProofOfConceptStartingPoint\DataRepository\bin\Debug\netcoreapp2.1\DataRepository.pdb
+C:\LetsWork\ProofOfConcept\ProofOfConceptStartingPoint\DataRepository\obj\Debug\netcoreapp2.1\DataRepository.csprojAssemblyReference.cache
+C:\LetsWork\ProofOfConcept\ProofOfConceptStartingPoint\DataRepository\obj\Debug\netcoreapp2.1\DataRepository.csproj.CoreCompileInputs.cache
+C:\LetsWork\ProofOfConcept\ProofOfConceptStartingPoint\DataRepository\obj\Debug\netcoreapp2.1\DataRepository.AssemblyInfoInputs.cache
+C:\LetsWork\ProofOfConcept\ProofOfConceptStartingPoint\DataRepository\obj\Debug\netcoreapp2.1\DataRepository.AssemblyInfo.cs
+C:\LetsWork\ProofOfConcept\ProofOfConceptStartingPoint\DataRepository\obj\Debug\netcoreapp2.1\DataRepository.dll
+C:\LetsWork\ProofOfConcept\ProofOfConceptStartingPoint\DataRepository\obj\Debug\netcoreapp2.1\DataRepository.pdb
