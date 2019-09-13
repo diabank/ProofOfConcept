@@ -1,0 +1,25 @@
+[
+  {
+	"reasonID": 0,
+    "title": "Growth Opportunities",
+    "description": "This job aligns with my goals. In day to day job, I relish the opportunity to be confronted to the myriad of technology that you guys utilize",
+    "createdDate": "2019-09-13T04:31:48.285Z",
+    "notes": "00"
+  },
+
+  {
+	"reasonID": 1,
+    "title": "Skills and Experience",
+    "description": "",
+    "createdDate": "2019-09-13T04:32:48.285Z",
+    "notes": "00"
+  },
+
+  {
+    "reasonID": 2,
+    "title": "BHHC value name",
+    "description": "the name 'Berkshire Hathaway' rings speaks volume in everybody's sub-conscience. In my my mind, it screams leading, trail blazing, forward thinker, but yet extremely stable. these core values are same that I am trying to emulate  ",
+    "createdDate": "2019-09-13T04:33:48.285Z",
+    "notes": "00"
+  }
+]

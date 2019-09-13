@@ -1,24 +1,37 @@
 {
   "format": 1,
   "restore": {
-    "C:\\LetsWorkIt\\ProofOfConcept\\ProofOfConceptStartingPoint\\DataWebApi\\DataWebApi.csproj": {}
+    "C:\\LetsWork\\ProofOfConcept\\ProofOfConceptStartingPoint\\DataWebApi\\DataWebApi.csproj": {}
   },
   "projects": {
-    "C:\\LetsWorkIt\\ProofOfConcept\\ProofOfConceptStartingPoint\\DataWebApi\\DataWebApi.csproj": {
+    "C:\\LetsWork\\ProofOfConcept\\ProofOfConceptStartingPoint\\Common\\Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\LetsWorkIt\\ProofOfConcept\\ProofOfConceptStartingPoint\\DataWebApi\\DataWebApi.csproj",
+        "projectUniqueName": "C:\\LetsWork\\ProofOfConcept\\ProofOfConceptStartingPoint\\Common\\Common.csproj",
+        "projectName": "Common",
+        "projectPath": "C:\\LetsWork\\ProofOfConcept\\ProofOfConceptStartingPoint\\Common\\Common.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\LetsWork\\ProofOfConcept\\ProofOfConceptStartingPoint\\DataWebApi\\DataWebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\LetsWork\\ProofOfConcept\\ProofOfConceptStartingPoint\\DataWebApi\\DataWebApi.csproj",
         "projectName": "DataWebApi",
-        "projectPath": "C:\\LetsWorkIt\\ProofOfConcept\\ProofOfConceptStartingPoint\\DataWebApi\\DataWebApi.csproj",
-        "packagesPath": "C:\\Users\\dkouame\\.nuget\\packages\\",
-        "outputPath": "C:\\LetsWorkIt\\ProofOfConcept\\ProofOfConceptStartingPoint\\DataWebApi\\obj\\",
+        "projectPath": "C:\\LetsWork\\ProofOfConcept\\ProofOfConceptStartingPoint\\DataWebApi\\DataWebApi.csproj",
+        "packagesPath": "C:\\Users\\Arnaud\\.nuget\\packages\\",
+        "outputPath": "C:\\LetsWork\\ProofOfConcept\\ProofOfConceptStartingPoint\\DataWebApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\dkouame\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Arnaud\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"
@@ -29,7 +42,11 @@
         },
         "frameworks": {
           "netcoreapp2.2": {
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\LetsWork\\ProofOfConcept\\ProofOfConceptStartingPoint\\Common\\Common.csproj": {
+                "projectPath": "C:\\LetsWork\\ProofOfConcept\\ProofOfConceptStartingPoint\\Common\\Common.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -57,6 +74,10 @@
               "target": "Package",
               "version": "[2.2.0, )",
               "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.2.3, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
