@@ -3284,6 +3284,18 @@
           "lib/netcoreapp2.0/_._": {}
         }
       },
+      "System.ComponentModel.Composition/4.5.0": {
+        "type": "package",
+        "dependencies": {
+          "System.Security.Permissions": "4.5.0"
+        },
+        "compile": {
+          "ref/netstandard2.0/System.ComponentModel.Composition.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/System.ComponentModel.Composition.dll": {}
+        }
+      },
       "System.Composition/1.0.31": {
         "type": "package",
         "dependencies": {
@@ -8912,6 +8924,40 @@
         "version.txt"
       ]
     },
+    "System.ComponentModel.Composition/4.5.0": {
+      "sha512": "+iB9FoZnfdqMEGq6np28X6YNSUrse16CakmIhV3h6PxEWt7jYxUN3Txs1D8MZhhf4QmyvK0F/EcIN0f4gGN0dA==",
+      "type": "package",
+      "path": "system.componentmodel.composition/4.5.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/MonoAndroid10/_._",
+        "lib/MonoTouch10/_._",
+        "lib/net45/_._",
+        "lib/netcoreapp2.0/System.ComponentModel.Composition.dll",
+        "lib/netstandard2.0/System.ComponentModel.Composition.dll",
+        "lib/uap10.0.16299/_._",
+        "lib/xamarinios10/_._",
+        "lib/xamarinmac20/_._",
+        "lib/xamarintvos10/_._",
+        "lib/xamarinwatchos10/_._",
+        "ref/MonoAndroid10/_._",
+        "ref/MonoTouch10/_._",
+        "ref/net45/_._",
+        "ref/netstandard2.0/System.ComponentModel.Composition.dll",
+        "ref/uap10.0.16299/_._",
+        "ref/xamarinios10/_._",
+        "ref/xamarinmac20/_._",
+        "ref/xamarintvos10/_._",
+        "ref/xamarinwatchos10/_._",
+        "system.componentmodel.composition.4.5.0.nupkg.sha512",
+        "system.componentmodel.composition.nuspec",
+        "useSharedDesignerContext.txt",
+        "version.txt"
+      ]
+    },
     "System.Composition/1.0.31": {
       "sha512": "I+D26qpYdoklyAVUdqwUBrEIckMNjAYnuPJy/h9dsQItpQwVREkDFs4b4tkBza0kT2Yk48Lcfsv2QQ9hWsh9Iw==",
       "type": "package",
@@ -13054,31 +13100,29 @@
       "Microsoft.AspNetCore.Razor.Design >= 2.2.0",
       "Microsoft.NETCore.App >= 2.2.0",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 2.2.3",
-      "Swashbuckle.AspNetCore >= 4.0.1"
+      "Swashbuckle.AspNetCore >= 4.0.1",
+      "System.ComponentModel.Composition >= 4.5.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Arnaud\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Users\\dkouame\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\LetsWork\\ProofOfConcept\\ProofOfConceptStartingPoint\\DataWebApi\\DataWebApi.csproj",
+      "projectUniqueName": "C:\\LetsWorkIt\\ProofOfConcept\\ProofOfConceptStartingPoint\\DataWebApi\\DataWebApi.csproj",
       "projectName": "DataWebApi",
-      "projectPath": "C:\\LetsWork\\ProofOfConcept\\ProofOfConceptStartingPoint\\DataWebApi\\DataWebApi.csproj",
-      "packagesPath": "C:\\Users\\Arnaud\\.nuget\\packages\\",
-      "outputPath": "C:\\LetsWork\\ProofOfConcept\\ProofOfConceptStartingPoint\\DataWebApi\\obj\\",
+      "projectPath": "C:\\LetsWorkIt\\ProofOfConcept\\ProofOfConceptStartingPoint\\DataWebApi\\DataWebApi.csproj",
+      "packagesPath": "C:\\Users\\dkouame\\.nuget\\packages\\",
+      "outputPath": "C:\\LetsWorkIt\\ProofOfConcept\\ProofOfConceptStartingPoint\\DataWebApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Arnaud\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\dkouame\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"
@@ -13090,8 +13134,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\LetsWork\\ProofOfConcept\\ProofOfConceptStartingPoint\\Common\\Common.csproj": {
-              "projectPath": "C:\\LetsWork\\ProofOfConcept\\ProofOfConceptStartingPoint\\Common\\Common.csproj"
+            "C:\\LetsWorkIt\\ProofOfConcept\\ProofOfConceptStartingPoint\\Common\\Common.csproj": {
+              "projectPath": "C:\\LetsWorkIt\\ProofOfConcept\\ProofOfConceptStartingPoint\\Common\\Common.csproj"
             }
           }
         }
@@ -13129,6 +13173,10 @@
           "Swashbuckle.AspNetCore": {
             "target": "Package",
             "version": "[4.0.1, )"
+          },
+          "System.ComponentModel.Composition": {
+            "target": "Package",
+            "version": "[4.5.0, )"
           }
         },
         "imports": [

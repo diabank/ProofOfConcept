@@ -32,3 +32,4 @@ C:\LetsWork\ProofOfConcept\ProofOfConceptStartingPoint\Common\obj\Debug\Common.c
 C:\LetsWork\ProofOfConcept\ProofOfConceptStartingPoint\Common\obj\Debug\Common.csproj.CopyComplete
 C:\LetsWork\ProofOfConcept\ProofOfConceptStartingPoint\Common\obj\Debug\Common.dll
 C:\LetsWork\ProofOfConcept\ProofOfConceptStartingPoint\Common\obj\Debug\Common.pdb
+C:\LetsWorkIt\ProofOfConcept\ProofOfConceptStartingPoint\Common\obj\Debug\Common.csprojAssemblyReference.cache

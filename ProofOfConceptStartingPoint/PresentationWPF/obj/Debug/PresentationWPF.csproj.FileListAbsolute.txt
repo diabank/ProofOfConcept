@@ -27,3 +27,4 @@ C:\LetsWork\ProofOfConcept\ProofOfConceptStartingPoint\PresentationWPF\obj\Debug
 C:\LetsWork\ProofOfConcept\ProofOfConceptStartingPoint\PresentationWPF\obj\Debug\PresentationWPF.exe
 C:\LetsWork\ProofOfConcept\ProofOfConceptStartingPoint\PresentationWPF\obj\Debug\PresentationWPF.pdb
 C:\LetsWork\ProofOfConcept\ProofOfConceptStartingPoint\PresentationWPF\obj\Debug\PresentationWPF.csprojAssemblyReference.cache
+C:\LetsWorkIt\ProofOfConcept\ProofOfConceptStartingPoint\PresentationWPF\obj\Debug\PresentationWPF.csprojAssemblyReference.cache

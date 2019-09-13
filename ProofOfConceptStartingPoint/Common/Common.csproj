@@ -60,6 +60,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="IDataStorageAccessor.cs" />
     <Compile Include="IReasonProvider.cs" />
     <Compile Include="IReasonReader.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

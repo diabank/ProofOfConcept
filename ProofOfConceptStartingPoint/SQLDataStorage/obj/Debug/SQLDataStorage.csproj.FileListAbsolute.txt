@@ -1,0 +1,10 @@
+C:\LetsWorkIt\ProofOfConcept\ProofOfConceptStartingPoint\SQLDataStorage\bin\Debug\SQLDataStorage.dll
+C:\LetsWorkIt\ProofOfConcept\ProofOfConceptStartingPoint\SQLDataStorage\bin\Debug\SQLDataStorage.pdb
+C:\LetsWorkIt\ProofOfConcept\ProofOfConceptStartingPoint\SQLDataStorage\bin\Debug\Common.dll
+C:\LetsWorkIt\ProofOfConcept\ProofOfConceptStartingPoint\SQLDataStorage\bin\Debug\Common.pdb
+C:\LetsWorkIt\ProofOfConcept\ProofOfConceptStartingPoint\SQLDataStorage\bin\Debug\Common.dll.config
+C:\LetsWorkIt\ProofOfConcept\ProofOfConceptStartingPoint\SQLDataStorage\obj\Debug\SQLDataStorage.csprojAssemblyReference.cache
+C:\LetsWorkIt\ProofOfConcept\ProofOfConceptStartingPoint\SQLDataStorage\obj\Debug\SQLDataStorage.csproj.CoreCompileInputs.cache
+C:\LetsWorkIt\ProofOfConcept\ProofOfConceptStartingPoint\SQLDataStorage\obj\Debug\SQLDataStorage.csproj.CopyComplete
+C:\LetsWorkIt\ProofOfConcept\ProofOfConceptStartingPoint\SQLDataStorage\obj\Debug\SQLDataStorage.dll
+C:\LetsWorkIt\ProofOfConcept\ProofOfConceptStartingPoint\SQLDataStorage\obj\Debug\SQLDataStorage.pdb

@@ -1,0 +1,10 @@
+C:\LetsWorkIt\ProofOfConcept\ProofOfConceptStartingPoint\ReasonProvider\bin\Debug\ReasonProvider.dll
+C:\LetsWorkIt\ProofOfConcept\ProofOfConceptStartingPoint\ReasonProvider\bin\Debug\ReasonProvider.pdb
+C:\LetsWorkIt\ProofOfConcept\ProofOfConceptStartingPoint\ReasonProvider\bin\Debug\Common.dll
+C:\LetsWorkIt\ProofOfConcept\ProofOfConceptStartingPoint\ReasonProvider\bin\Debug\Common.pdb
+C:\LetsWorkIt\ProofOfConcept\ProofOfConceptStartingPoint\ReasonProvider\bin\Debug\Common.dll.config
+C:\LetsWorkIt\ProofOfConcept\ProofOfConceptStartingPoint\ReasonProvider\obj\Debug\ReasonProvider.csprojAssemblyReference.cache
+C:\LetsWorkIt\ProofOfConcept\ProofOfConceptStartingPoint\ReasonProvider\obj\Debug\ReasonProvider.csproj.CoreCompileInputs.cache
+C:\LetsWorkIt\ProofOfConcept\ProofOfConceptStartingPoint\ReasonProvider\obj\Debug\ReasonProvider.csproj.CopyComplete
+C:\LetsWorkIt\ProofOfConcept\ProofOfConceptStartingPoint\ReasonProvider\obj\Debug\ReasonProvider.dll
+C:\LetsWorkIt\ProofOfConcept\ProofOfConceptStartingPoint\ReasonProvider\obj\Debug\ReasonProvider.pdb

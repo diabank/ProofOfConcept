@@ -1,0 +1,12 @@
+C:\LetsWorkIt\ProofOfConcept\ProofOfConceptStartingPoint\FileDataStorage\obj\Debug\FileDataStorage.csprojAssemblyReference.cache
+C:\LetsWorkIt\ProofOfConcept\ProofOfConceptStartingPoint\FileDataStorage\obj\Debug\FileDataStorage.csproj.CoreCompileInputs.cache
+C:\LetsWorkIt\ProofOfConcept\ProofOfConceptStartingPoint\FileDataStorage\bin\Debug\FileDataStorage.dll
+C:\LetsWorkIt\ProofOfConcept\ProofOfConceptStartingPoint\FileDataStorage\bin\Debug\FileDataStorage.pdb
+C:\LetsWorkIt\ProofOfConcept\ProofOfConceptStartingPoint\FileDataStorage\bin\Debug\Common.dll
+C:\LetsWorkIt\ProofOfConcept\ProofOfConceptStartingPoint\FileDataStorage\bin\Debug\Common.pdb
+C:\LetsWorkIt\ProofOfConcept\ProofOfConceptStartingPoint\FileDataStorage\bin\Debug\Common.dll.config
+C:\LetsWorkIt\ProofOfConcept\ProofOfConceptStartingPoint\FileDataStorage\obj\Debug\FileDataStorage.csproj.CopyComplete
+C:\LetsWorkIt\ProofOfConcept\ProofOfConceptStartingPoint\FileDataStorage\obj\Debug\FileDataStorage.dll
+C:\LetsWorkIt\ProofOfConcept\ProofOfConceptStartingPoint\FileDataStorage\obj\Debug\FileDataStorage.pdb
+C:\LetsWorkIt\ProofOfConcept\ProofOfConceptStartingPoint\FileDataStorage\bin\Debug\Newtonsoft.Json.dll
+C:\LetsWorkIt\ProofOfConcept\ProofOfConceptStartingPoint\FileDataStorage\bin\Debug\Newtonsoft.Json.xml

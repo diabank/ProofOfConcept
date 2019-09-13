@@ -2,7 +2,7 @@
   {
 	"reasonID": 0,
     "title": "Growth Opportunities",
-    "description": "This job aligns with my goals. In day to day job, I relish the opportunity to be confronted to the myriad of technology that you guys utilize",
+    "description": "This job aligns with my goals. In day to day job, I want the opportunity to be confronted to the myriad of technology that you guys utilize",
     "createdDate": "2019-09-13T04:31:48.285Z",
     "notes": "00"
   },

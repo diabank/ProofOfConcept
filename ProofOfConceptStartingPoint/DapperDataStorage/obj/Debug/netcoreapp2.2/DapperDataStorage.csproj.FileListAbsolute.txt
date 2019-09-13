@@ -1,0 +1,12 @@
+C:\LetsWorkIt\ProofOfConcept\ProofOfConceptStartingPoint\DapperDataStorage\bin\Debug\netcoreapp2.2\DapperDataStorage.deps.json
+C:\LetsWorkIt\ProofOfConcept\ProofOfConceptStartingPoint\DapperDataStorage\bin\Debug\netcoreapp2.2\DapperDataStorage.dll
+C:\LetsWorkIt\ProofOfConcept\ProofOfConceptStartingPoint\DapperDataStorage\obj\Debug\netcoreapp2.2\DapperDataStorage.csproj.CoreCompileInputs.cache
+C:\LetsWorkIt\ProofOfConcept\ProofOfConceptStartingPoint\DapperDataStorage\obj\Debug\netcoreapp2.2\DapperDataStorage.AssemblyInfoInputs.cache
+C:\LetsWorkIt\ProofOfConcept\ProofOfConceptStartingPoint\DapperDataStorage\obj\Debug\netcoreapp2.2\DapperDataStorage.AssemblyInfo.cs
+C:\LetsWorkIt\ProofOfConcept\ProofOfConceptStartingPoint\DapperDataStorage\bin\Debug\netcoreapp2.2\DapperDataStorage.pdb
+C:\LetsWorkIt\ProofOfConcept\ProofOfConceptStartingPoint\DapperDataStorage\bin\Debug\netcoreapp2.2\Common.dll
+C:\LetsWorkIt\ProofOfConcept\ProofOfConceptStartingPoint\DapperDataStorage\bin\Debug\netcoreapp2.2\Common.pdb
+C:\LetsWorkIt\ProofOfConcept\ProofOfConceptStartingPoint\DapperDataStorage\bin\Debug\netcoreapp2.2\Common.dll.config
+C:\LetsWorkIt\ProofOfConcept\ProofOfConceptStartingPoint\DapperDataStorage\obj\Debug\netcoreapp2.2\DapperDataStorage.csproj.CopyComplete
+C:\LetsWorkIt\ProofOfConcept\ProofOfConceptStartingPoint\DapperDataStorage\obj\Debug\netcoreapp2.2\DapperDataStorage.dll
+C:\LetsWorkIt\ProofOfConcept\ProofOfConceptStartingPoint\DapperDataStorage\obj\Debug\netcoreapp2.2\DapperDataStorage.pdb

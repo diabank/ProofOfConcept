@@ -1,0 +1,79 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\LetsWorkIt\\ProofOfConcept\\ProofOfConceptStartingPoint\\DapperDataStorage\\DapperDataStorage.csproj": {}
+  },
+  "projects": {
+    "C:\\LetsWorkIt\\ProofOfConcept\\ProofOfConceptStartingPoint\\Common\\Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\LetsWorkIt\\ProofOfConcept\\ProofOfConceptStartingPoint\\Common\\Common.csproj",
+        "projectName": "Common",
+        "projectPath": "C:\\LetsWorkIt\\ProofOfConcept\\ProofOfConceptStartingPoint\\Common\\Common.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\LetsWorkIt\\ProofOfConcept\\ProofOfConceptStartingPoint\\DapperDataStorage\\DapperDataStorage.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\LetsWorkIt\\ProofOfConcept\\ProofOfConceptStartingPoint\\DapperDataStorage\\DapperDataStorage.csproj",
+        "projectName": "DapperDataStorage",
+        "projectPath": "C:\\LetsWorkIt\\ProofOfConcept\\ProofOfConceptStartingPoint\\DapperDataStorage\\DapperDataStorage.csproj",
+        "packagesPath": "C:\\Users\\dkouame\\.nuget\\packages\\",
+        "outputPath": "C:\\LetsWorkIt\\ProofOfConcept\\ProofOfConceptStartingPoint\\DapperDataStorage\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\dkouame\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\LetsWorkIt\\ProofOfConcept\\ProofOfConceptStartingPoint\\Common\\Common.csproj": {
+                "projectPath": "C:\\LetsWorkIt\\ProofOfConcept\\ProofOfConceptStartingPoint\\Common\\Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.4, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
