@@ -5,3 +5,4 @@ Repository Pattern /
 Dapper /
 Swagger / 
 MEF (an attempt) /
+Git stuuf
